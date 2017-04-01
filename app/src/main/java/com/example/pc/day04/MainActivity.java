@@ -21,6 +21,8 @@ import java.util.List;
  *      1.
  * 一个表中如果外键没有指明的话,外键允许重复
  *
+ *
+ *
  */
 public class MainActivity extends AppCompatActivity {
 
